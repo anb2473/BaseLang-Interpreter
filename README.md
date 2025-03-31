@@ -9,4 +9,4 @@ A simple interpreted language, designed around minimalism. It is a fully Turing 
 To install Base Lang do the following:
 * Download our code base
 * Download Java from https://www.java.com/en/download/manual.jsp and follow instalation instructions for your opperating system.
-* Once installed, execute the `Main.java` file. This will execute the tst.bl file automatically.
+* Once installed, execute the `Main.java` file. This will execute the `tst.bl` file automatically.
